@@ -8,7 +8,7 @@
 ### Tech Stack
 - **Languages:** Python, Javascript, C++
 - **Math/Science:** Multivariable Calculus, Fluid Mechanics, Aerodynamics, Flight design
-- **Tools:** Solid Works, Fusion360, Ansys, MatLab, Git, LaTeX, VS Code
+- **Tools:** Solid Works, Fusion360, Ansys, MatLab, Git, VS Code
 
 ### Let's Connect
 [LinkedIn](www.linkedin.com/in/vaibhav-ranjan-) | Email - vaibhav.25bas10060@vitbhopal.ac.in
